@@ -103,7 +103,7 @@ Here's how you can use and interact with the Spotify Clone:
 
 ## 🚀 Deployment <a name = "deployment"></a>
 
-To deploy your Spotify Clone on a live system, you can use various hosting platforms and services. Below are general steps on how to deploy a MERN stack application.
+To deploy your Notes App on a live system, you can use various hosting platforms and services. Below are general steps on how to deploy a MERN stack application.
 
 1. Set Up a Production-Ready Build
    Before deploying, create a production-ready build of your React frontend. In your project's client directory, run:
